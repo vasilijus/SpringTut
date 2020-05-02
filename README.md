@@ -20,7 +20,7 @@ workFolder->Lifecicly->install
 This generates a target folder within the project...
 We can start the environment with a .jar file
  - projectName-0.0.Nr-SNAPSHOT.jar
-
+./target/projectName-0.0.Nr-SNAPSHOT.jar
 ```$xslt
 java -jar projectName-0.0.Nr-SNAPSHOT.jar
 ```
